@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 /** 
 program on datatype conversion
-coder sameer
+by sameer
 date 3/feb/2021
 
  * */
