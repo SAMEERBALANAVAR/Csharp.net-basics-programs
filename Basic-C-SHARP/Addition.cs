@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+//program for adding two number and stored in 3rd var and display 3rd value
+//done by sameer on 3/feb/2021
 
 namespace Basic_C_SHARP
 {
