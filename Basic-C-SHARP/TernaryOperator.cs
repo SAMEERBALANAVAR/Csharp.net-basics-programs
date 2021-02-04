@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//program on NestedTernaryoperator
 namespace ConsoleApp1
 {
+    //class name NestedTernaryOperator
     class NestedTernaryOperator
     {
-
+    //access specifier as private
         private int marks;
 
         public int Marks
