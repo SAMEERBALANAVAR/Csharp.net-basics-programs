@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//program on Switchcase by sameer on 4/feb/2021
 namespace ConsoleApp1
 {
+    //class name Switchcase
     class Switchcase
     {
         static void Main(string[] args)
         {
-
+            //datatype used is "int" 
             int num1;
             int num2;
             //showing logical operands in var 
