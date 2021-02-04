@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Basic_C_SHARP</RootNamespace>
+    <StartupObject>Basic_C_SHARP.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
