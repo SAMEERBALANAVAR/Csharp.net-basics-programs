@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//program on enum with different actions by sameer on 4/feb/2021
 namespace TrainingSession2
 {
     class enumex
