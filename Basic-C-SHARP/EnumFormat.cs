@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//program on EnumFormats by sameer on 4/feb/2021
 namespace ConsoleApp1
 {
+    //class name EnumFormat
     class EnumFormat
     {
         enum Importance
@@ -15,6 +16,7 @@ namespace ConsoleApp1
 
         static void Main()
         {
+            //Different Enum Formats
             M("G");
             M("g");
             M("X");
@@ -29,6 +31,7 @@ namespace ConsoleApp1
         {
             // Use Enum.Format with the specified format string.
             string value = Enum.Format(typeof(Importance), Importance.Critical, format);
+            //printing the EnumFormatsValue
             Console.WriteLine("{0} = {1}", format, value);
         }
     }
